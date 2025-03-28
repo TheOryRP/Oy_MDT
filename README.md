@@ -1,9 +1,11 @@
-??? Oy_MDT - Advanced ESX Police & EMS MDT
+Discord: https://discord.gg/h5wD3THGEy
 
-?? Oy_MDT is an advanced Mobile Data Terminal (MDT) system for FiveM ESX servers, designed for police and EMS roles. It includes real-time GPS tracking, a warrant system, ANPR (Automatic Number Plate Recognition), and much more!
+Oy_MDT - Advanced ESX Police & EMS MDT
 
-? Features:
-?? Modern UI (tablet-style, responsive)
+ Oy_MDT is an advanced Mobile Data Terminal (MDT) system for FiveM ESX servers, designed for police and EMS roles. It includes real-time GPS tracking, a warrant system, ANPR (Automatic Number Plate Recognition), and much more!
+
+Features:
+Modern UI (tablet-style, responsive)
 
 ?? Warrant system (create, view, manage with player photos)
 
